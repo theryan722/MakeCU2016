@@ -1,5 +1,5 @@
 # Myo and Furious
-MAkeCU 2016 Hackathon Project
+MakeCU 2016 Hackathon Project
 # Controls
 Accelerate: Fist Hand
 Decelerate: Fingers Spread
