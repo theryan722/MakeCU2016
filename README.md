@@ -11,3 +11,5 @@ Third place for Medical Tech
 Visit the releases page to download the game. Oculus Rift and Myo armband are required.
 # Devpost
 [Here is the link to the project submission page](http://devpost.com/software/maya-and-furious)
+# Notice
+The source code is an older version compared to the latest release.
